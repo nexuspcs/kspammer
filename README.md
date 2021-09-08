@@ -1,4 +1,4 @@
-# [CLICK HERE TO FORK](https://repl.it/github/Jeydin21/Kahoot-Spammer)
+# Welcome
 Need a distraction? Is your teacher hosting a Kahoot? Well, there's certainly nothing better to do than...FLOOD THE KAHOOT WITH BOTS!!!
 
 Well, you can actually do it, for free! No more need to use those CPU depriving Kahoot spammers you find on Google that can only send a limited amount of bots for the price of a few dollars, no this bot can send hundreds of bots into a single Kahoot game, and they can actually answer the questions and get them right!
